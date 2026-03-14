@@ -32,11 +32,11 @@ geographic demand, and fulfillment efficiency.
   Amount, State, Status, Fulfilment
 
 ## 📸 Screenshots
-![Executive Summary](screenshots/page1_executive_summary.png)
-![Product Performance](screenshots/page2_product_performance.png)
-![Geographic Analysis](screenshots/page3_geographic_analysis.png)
-![Fulfillment Analysis](screenshots/page4_fulfillment_analysis.png)
-![B2B vs B2C](screenshots/page5_b2b_vs_b2c.png)
+![Executive Summary](page1_executive_summary.png)
+![Product Performance](page2_product_performance.png)
+![Geographic Analysis](page3_geographic_analysis.png)
+![Fulfillment Analysis](page4_fulfillment_analysis.png)
+![B2B vs B2C](page5_b2b_vs_b2c.png)
 
 ## 🔗 Live Dashboard
 [View Live Dashboard](PASTE YOUR POWER BI PUBLISH LINK HERE)
