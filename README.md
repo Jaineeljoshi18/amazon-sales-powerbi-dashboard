@@ -44,27 +44,3 @@ geographic demand, and fulfillment efficiency.
 
 ## 👤 Author
 Jaineeljoshi18 | [GitHub](https://github.com/Jaineeljoshi18)
-```
-
----
-
-## 🟢 STEP 5 — Commit the README
-- Scroll down
-- Type **"Add README"** in commit box
-- Click green **"Commit changes"**
-
----
-
-## 🟢 STEP 6 — Check Your Repo
-- Go back to main repo page
-- Your repo should now look like this:
-```
-amazon-sales-powerbi-dashboard/
-│
-├── 📁 page1_executive_summary.png
-page2_product_performance.png
-page3_geographic_analysis.png
-page4_fulfillment_analysis.png
-page5_b2b_vs_b2c.png
-├── 📁 Amazon_sales_dataset
-└── README.md
