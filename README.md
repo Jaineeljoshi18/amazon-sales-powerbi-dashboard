@@ -39,7 +39,8 @@ geographic demand, and fulfillment efficiency.
 ![B2B vs B2C](page5_b2b_vs_b2c.png)
 
 ## 🔗 Live Dashboard
-[View Live Dashboard](PASTE YOUR POWER BI PUBLISH LINK HERE)
+[View Live Dashboard]  https://app.powerbi.com/view?r=eyJrIjoiNTU1ZTA0MWQtYjI2MC00ODA0LWE0N2ItYTVhNzBmMGMxNDQwIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+
 
 ## 👤 Author
 Jaineeljoshi18 | [GitHub](https://github.com/Jaineeljoshi18)
